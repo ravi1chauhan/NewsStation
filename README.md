@@ -1,3 +1,14 @@
+# This is a NewsStation WebApp Project Using News API
+NewsStation is a news app which can be used to grab daily news bites. If you are interested in news whether politics, business, entertainment, general, health, science, sports and technology news NewsStation is for you!
+# Demonstration of my Project
+![NewsStation1](https://user-images.githubusercontent.com/73652119/152669600-e0adf1d2-46a9-480d-b3a4-150cd9e67112.png)
+![NewsStation2](https://user-images.githubusercontent.com/73652119/152669604-63e04313-9b41-40cb-9762-b9badf72fe8d.png)
+![NewsStation3](https://user-images.githubusercontent.com/73652119/152669607-360486db-cd0f-4bef-bf43-2910e27a80be.png)
+![NewsStation4](https://user-images.githubusercontent.com/73652119/152669611-7d288d3c-490c-4f43-97e6-5fb430b30628.png)
+# Video Demonstration of my Project
+https://user-images.githubusercontent.com/73652119/152669633-53563950-3287-4633-be4a-f1aaa24cc142.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
